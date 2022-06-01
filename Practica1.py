@@ -14,8 +14,11 @@ if edad >= 18 and edad <= 100 :
     print("Eres mayor de edad")
 elif edad > 100 : 
     print("Si vienes acompañad@ de tus abuelitos, si te podemos fiar")
+elif edad <0 :
+    print("Ni que fueras viajero del tiempo")
 else : 
     print("Eres menor de edad")
+
 
 
 
